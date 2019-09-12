@@ -1,0 +1,36 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+p {
+	color: black
+	font-size: 1px;
+}
+
+* {
+	text-align: center;
+}
+
+h1, img
+ {
+  font-size: 15px;
+}
+
+h2 {
+  font-size: 1px
+  color: black;
+} 
+ .element
+{
+	display: fl;
+}
+.attribut
+{
+	display: flex;
+	justify-content: center;
+}
+
+/** {
+	outline: 1px solid red!important;
+}*/
